@@ -1,0 +1,15 @@
+C:\Users\muham\Masaüstü\github\SortingAlgorithms\CSharp\SortingAlgorithms\bin\Debug\net8.0\SortingAlgorithms.exe
+C:\Users\muham\Masaüstü\github\SortingAlgorithms\CSharp\SortingAlgorithms\bin\Debug\net8.0\SortingAlgorithms.deps.json
+C:\Users\muham\Masaüstü\github\SortingAlgorithms\CSharp\SortingAlgorithms\bin\Debug\net8.0\SortingAlgorithms.runtimeconfig.json
+C:\Users\muham\Masaüstü\github\SortingAlgorithms\CSharp\SortingAlgorithms\bin\Debug\net8.0\SortingAlgorithms.dll
+C:\Users\muham\Masaüstü\github\SortingAlgorithms\CSharp\SortingAlgorithms\bin\Debug\net8.0\SortingAlgorithms.pdb
+C:\Users\muham\Masaüstü\github\SortingAlgorithms\CSharp\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Masaüstü\github\SortingAlgorithms\CSharp\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\muham\Masaüstü\github\SortingAlgorithms\CSharp\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.AssemblyInfo.cs
+C:\Users\muham\Masaüstü\github\SortingAlgorithms\CSharp\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\muham\Masaüstü\github\SortingAlgorithms\CSharp\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.sourcelink.json
+C:\Users\muham\Masaüstü\github\SortingAlgorithms\CSharp\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.dll
+C:\Users\muham\Masaüstü\github\SortingAlgorithms\CSharp\SortingAlgorithms\obj\Debug\net8.0\refint\SortingAlgorithms.dll
+C:\Users\muham\Masaüstü\github\SortingAlgorithms\CSharp\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.pdb
+C:\Users\muham\Masaüstü\github\SortingAlgorithms\CSharp\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.genruntimeconfig.cache
+C:\Users\muham\Masaüstü\github\SortingAlgorithms\CSharp\SortingAlgorithms\obj\Debug\net8.0\ref\SortingAlgorithms.dll
