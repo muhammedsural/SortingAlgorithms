@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{CE0008A2-1107-4BBC-BC68-0EA7FC89B071}|SortingAlgorithms.csproj|c:\\users\\muham\\masa\u00FCst\u00FC\\github\\sortingalgorithms\\csharp\\sortingalgorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE0008A2-1107-4BBC-BC68-0EA7FC89B071}|SortingAlgorithms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0008A2-1107-4BBC-BC68-0EA7FC89B071}|SortingAlgorithms.csproj|c:\\users\\muham\\masa\u00FCst\u00FC\\github\\sortingalgorithms\\csharp\\sortingalgorithms\\heapsortalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0008A2-1107-4BBC-BC68-0EA7FC89B071}|SortingAlgorithms.csproj|solutionrelative:heapsortalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeapSortAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Masa\u00FCst\u00FC\\github\\SortingAlgorithms\\CSharp\\SortingAlgorithms\\HeapSortAlgorithm.cs",
+              "RelativeDocumentMoniker": "HeapSortAlgorithm.cs",
+              "ToolTip": "C:\\Users\\muham\\Masa\u00FCst\u00FC\\github\\SortingAlgorithms\\CSharp\\SortingAlgorithms\\HeapSortAlgorithm.cs",
+              "RelativeToolTip": "HeapSortAlgorithm.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA2wE0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T10:15:53.568Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\muham\\Masa\u00FCst\u00FC\\github\\SortingAlgorithms\\CSharp\\SortingAlgorithms\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T09:43:36.269Z",
               "EditorCaption": ""

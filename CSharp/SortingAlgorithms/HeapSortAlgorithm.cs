@@ -70,7 +70,7 @@ namespace SortingAlgorithms
             int length = array.Length;
 
             //Build Heap
-            for (int i = length / 2 - 1; i > 0; i--)
+            for (int i = length / 2 - 1; i > -1; i--)
                 Heapify(array, length, i);
 
             // One by one extract an element from heap
